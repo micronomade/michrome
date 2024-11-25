@@ -1,6 +1,5 @@
 {
-   "Mis Enlaces": [
-  ],
+  "Mis Enlaces": [],
   "AI": [
     {
       "name": "Soundraw - Generador de música AI",
@@ -13,10 +12,6 @@
     {
       "name": "Beatoven - Creación de beats con AI",
       "link": "https://www.beatoven.ai/"
-    },
-    {
-      "name": "Amper Music",
-      "link": "https://www.ampermusic.com/"
     },
     {
       "name": "ChatGPT - Inspiración para letras",
@@ -45,10 +40,6 @@
     {
       "name": "Descript - Edición de audio y video",
       "link": "https://www.descript.com/"
-    },
-    {
-      "name": "MuseNet de OpenAI",
-      "link": "https://openai.com/research/musenet"
     },
     {
       "name": "Boomy - Crea canciones en minutos",
@@ -89,16 +80,8 @@
       "link": "https://dubwiseradio.com/"
     },
     {
-      "name": "Jah Radio",
-      "link": "https://www.jahradio.com/"
-    },
-    {
       "name": "Reggae Vibes - Noticias y música",
       "link": "https://www.reggaevibes.com/"
-    },
-    {
-      "name": "Kingston Sounds",
-      "link": "https://www.kingstonsounds.com/"
     },
     {
       "name": "Roots Reggae Library",
@@ -125,22 +108,10 @@
       "link": "https://reggaesteadyska.com/"
     }
   ],
-  "Culturale": [
-    {
-      "name": "Reggae University",
-      "link": "https://www.reggaeinstitute.com/"
-    },
-    {
-      "name": "Documental: Marley",
-      "link": "https://www.marleydocumentary.com/"
-    },
+  "Cultura": [
     {
       "name": "History of Reggae - BBC",
       "link": "https://www.bbc.co.uk/music/reggae"
-    },
-    {
-      "name": "Reggae Heritage",
-      "link": "https://www.reggaeheritage.com/"
     },
     {
       "name": "Jamaican Culture Blog",
@@ -157,10 +128,6 @@
     {
       "name": "One Love Books",
       "link": "https://www.onelovebooks.com/"
-    },
-    {
-      "name": "Reggae Museum",
-      "link": "https://www.jamaicareggaemuseum.com/"
     },
     {
       "name": "Jamaica Gleaner - Noticias culturales",
@@ -217,24 +184,8 @@
       "link": "https://www.jamaicareggaetours.com/"
     },
     {
-      "name": "Dub Chat",
-      "link": "https://www.dubchat.com/"
-    },
-    {
-      "name": "Roots Reggae Academy",
-      "link": "https://rootsreggaeacademy.org/"
-    },
-    {
-      "name": "Kingston Echo",
-      "link": "https://kingstonecho.com/"
-    },
-    {
       "name": "Vinyl Factory",
       "link": "https://thevinylfactory.com/"
-    },
-    {
-      "name": "Reggae Traders",
-      "link": "https://reggaetraders.com/"
     },
     {
       "name": "Rastafari Way",
@@ -243,11 +194,6 @@
     {
       "name": "Jamaica Observer - Reggae",
       "link": "https://www.jamaicaobserver.com/"
-    },
-    {
-      "name": "Reggae Podcast Network",
-      "link": "https://www.reggaepodcastnetwork.com/"
     }
   ]
 }
-
