@@ -1,52 +1,250 @@
 {
-  "My Access": [
+  "Herramientas AI Reggae Style": [
     {
-      "name": "Micronomade Bandcamp",
-      "link": "https://bandcamp.com"
+      "name": "Soundraw - Generador de música AI",
+      "link": "https://soundraw.io/"
     },
     {
-      "name": "Micronomade youtube",
-      "link": "https://youtube.com/micronomade"
+      "name": "DALL-E - Generador de imágenes AI",
+      "link": "https://openai.com/dall-e/"
+    },
+    {
+      "name": "Beatoven - Creación de beats con AI",
+      "link": "https://www.beatoven.ai/"
+    },
+    {
+      "name": "Amper Music",
+      "link": "https://www.ampermusic.com/"
+    },
+    {
+      "name": "ChatGPT - Inspiración para letras",
+      "link": "https://chat.openai.com/"
+    },
+    {
+      "name": "Lumen5 - Videos automáticos",
+      "link": "https://www.lumen5.com/"
+    },
+    {
+      "name": "Runway - Edición de video con AI",
+      "link": "https://runwayml.com/"
+    },
+    {
+      "name": "Adobe Podcast Enhancer",
+      "link": "https://podcast.adobe.com/enhance"
+    },
+    {
+      "name": "Voicemod - Efectos de voz",
+      "link": "https://www.voicemod.net/"
+    },
+    {
+      "name": "Magenta Studio - Música AI de Google",
+      "link": "https://magenta.tensorflow.org/studio"
+    },
+    {
+      "name": "Descript - Edición de audio y video",
+      "link": "https://www.descript.com/"
+    },
+    {
+      "name": "MuseNet de OpenAI",
+      "link": "https://openai.com/research/musenet"
+    },
+    {
+      "name": "Boomy - Crea canciones en minutos",
+      "link": "https://boomy.com/"
+    },
+    {
+      "name": "LANDR - Masterización de música",
+      "link": "https://www.landr.com/"
+    },
+    {
+      "name": "DeepArt - Generador de arte reggae",
+      "link": "https://deepart.io/"
     }
   ],
-  "Dub news": [
+  "Vibra Musical": [
     {
-      "name": "NEW",
-      "link": "https://bandcamp.com"
+      "name": "Spotify - Playlist Reggae Vibes",
+      "link": "https://open.spotify.com/"
     },
     {
-      "name": "NEWS 2",
-      "link": "https://youtube.com/micronomade"
+      "name": "SoundCloud - Dub Underground",
+      "link": "https://soundcloud.com/"
+    },
+    {
+      "name": "Bandcamp - Descubre reggae emergente",
+      "link": "https://bandcamp.com/"
+    },
+    {
+      "name": "Mixcloud - Sets de reggae y dub",
+      "link": "https://www.mixcloud.com/"
+    },
+    {
+      "name": "Last.fm - Artistas similares reggae",
+      "link": "https://www.last.fm/"
+    },
+    {
+      "name": "Dubwise - Radio online dub",
+      "link": "https://dubwiseradio.com/"
+    },
+    {
+      "name": "Jah Radio",
+      "link": "https://www.jahradio.com/"
+    },
+    {
+      "name": "Reggae Vibes - Noticias y música",
+      "link": "https://www.reggaevibes.com/"
+    },
+    {
+      "name": "Kingston Sounds",
+      "link": "https://www.kingstonsounds.com/"
+    },
+    {
+      "name": "Roots Reggae Library",
+      "link": "https://www.roots-reggae-library.com/"
+    },
+    {
+      "name": "Official Bob Marley",
+      "link": "https://www.bobmarley.com/"
+    },
+    {
+      "name": "RastFM - Música reggae 24/7",
+      "link": "https://www.rastfm.com/"
+    },
+    {
+      "name": "Trojan Records",
+      "link": "https://www.trojanrecords.com/"
+    },
+    {
+      "name": "VP Records",
+      "link": "https://www.vprecords.com/"
+    },
+    {
+      "name": "ReggaeSteadySka",
+      "link": "https://reggaesteadyska.com/"
     }
   ],
-  "Dub news 2": [
+  "Recursos Culturales": [
     {
-      "name": "NEW",
-      "link": "https://bandcamp.com"
+      "name": "Reggae University",
+      "link": "https://www.reggaeinstitute.com/"
     },
     {
-      "name": "NEWS 2",
-      "link": "https://youtube.com/micronomade"
+      "name": "Documental: Marley",
+      "link": "https://www.marleydocumentary.com/"
+    },
+    {
+      "name": "History of Reggae - BBC",
+      "link": "https://www.bbc.co.uk/music/reggae"
+    },
+    {
+      "name": "Reggae Heritage",
+      "link": "https://www.reggaeheritage.com/"
+    },
+    {
+      "name": "Jamaican Culture Blog",
+      "link": "https://jamaicans.com/"
+    },
+    {
+      "name": "Island Stage - Cultura reggae",
+      "link": "https://island-stage.com/"
+    },
+    {
+      "name": "Rastafarian History",
+      "link": "https://www.rastafari.tv/"
+    },
+    {
+      "name": "One Love Books",
+      "link": "https://www.onelovebooks.com/"
+    },
+    {
+      "name": "Reggae Museum",
+      "link": "https://www.jamaicareggaemuseum.com/"
+    },
+    {
+      "name": "Jamaica Gleaner - Noticias culturales",
+      "link": "https://www.jamaica-gleaner.com/"
+    },
+    {
+      "name": "Pan African Music",
+      "link": "https://www.panafricanmusic.com/"
+    },
+    {
+      "name": "Global Reggae Charts",
+      "link": "https://www.globalreggaechart.com/"
+    },
+    {
+      "name": "United Reggae",
+      "link": "https://unitedreggae.com/"
+    },
+    {
+      "name": "Reggae Festival Guide",
+      "link": "https://reggaefestivalguide.com/"
+    },
+    {
+      "name": "Jah Lyrics",
+      "link": "https://www.jah-lyrics.com/"
     }
   ],
-  "Dub news 3": [
+  "Comunidad & Webs Útiles": [
     {
-      "name": "NEW",
-      "link": "https://bandcamp.com"
+      "name": "Reggae Reddit Community",
+      "link": "https://www.reddit.com/r/Reggae/"
     },
     {
-      "name": "NEWS 2",
-      "link": "https://youtube.com/micronomade"
-    }
-  ],
-  "Dub news 4": [
-    {
-      "name": "NEW",
-      "link": "https://bandcamp.com"
+      "name": "Dub Community Forum",
+      "link": "https://dub-forum.com/"
     },
     {
-      "name": "NEWS 2",
-      "link": "https://youtube.com/micronomade"
+      "name": "Reggae Vinyl Collectors",
+      "link": "https://www.discogs.com/"
+    },
+    {
+      "name": "Jamworld Events",
+      "link": "https://jamworld876.com/"
+    },
+    {
+      "name": "Roots Corner",
+      "link": "https://www.rootscorner.com/"
+    },
+    {
+      "name": "Sound System Culture",
+      "link": "https://soundsystemculture.org/"
+    },
+    {
+      "name": "Jamaica Reggae Tours",
+      "link": "https://www.jamaicareggaetours.com/"
+    },
+    {
+      "name": "Dub Chat",
+      "link": "https://www.dubchat.com/"
+    },
+    {
+      "name": "Roots Reggae Academy",
+      "link": "https://rootsreggaeacademy.org/"
+    },
+    {
+      "name": "Kingston Echo",
+      "link": "https://kingstonecho.com/"
+    },
+    {
+      "name": "Vinyl Factory",
+      "link": "https://thevinylfactory.com/"
+    },
+    {
+      "name": "Reggae Traders",
+      "link": "https://reggaetraders.com/"
+    },
+    {
+      "name": "Rastafari Way",
+      "link": "https://www.rastafariway.com/"
+    },
+    {
+      "name": "Jamaica Observer - Reggae",
+      "link": "https://www.jamaicaobserver.com/"
+    },
+    {
+      "name": "Reggae Podcast Network",
+      "link": "https://www.reggaepodcastnetwork.com/"
     }
   ]
 }
